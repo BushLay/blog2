@@ -1,0 +1,5 @@
+version: 1
+interface:
+  display_name: Human Blog Writing
+  short_description: Write technical blog posts with a more human, opinionated, blog-like voice.
+  default_prompt: Use this skill to turn stiff AI-style drafts into blog posts that sound more like an experienced practitioner writing from real project context.

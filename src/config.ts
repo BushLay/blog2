@@ -7,7 +7,7 @@ import type {
 import { LinkPreset } from './types/config'
 
 export const siteConfig: SiteConfig = {
-  title: '零界ZeroEdge',
+  title: '藤井树',
   subtitle: '欢迎来拜访我的博客！',
   lang: 'zh_CN',         // 'en', 'zh_CN', 'zh_TW', 'ja', 'ko', 'es', 'th'
   themeColor: {
@@ -52,8 +52,8 @@ export const navBarConfig: NavBarConfig = {
 
 export const profileConfig: ProfileConfig = {
   avatar: 'assets/images/demo-avatar.png',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
-  name: '零界ZeroEdge',
-  bio: '『一个既平凡又独特的初三学生』',
+  name: '藤井树',
+  bio: '随便写写',
   links: [
     //{
     //  name: 'GitHub',
